@@ -10,7 +10,7 @@
 
 ## Usage
 
-Pressing variation button (or any program button) switches betwen 2 modes
+Pressing variation button when Piano is selected switches betwen 2 modes
 
 ### default mode ### 
 
