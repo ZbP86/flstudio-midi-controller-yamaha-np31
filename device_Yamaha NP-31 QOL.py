@@ -4,7 +4,7 @@
 """
 [[
 	Surface:	Yamaha Piaggero NP-31
-	Developer:	Zenithies ZbP86
+	Developer:	ZbP86
 	Version:	Beta 0.1
 ]]
 """
